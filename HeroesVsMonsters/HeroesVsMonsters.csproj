@@ -56,6 +56,7 @@
     <Compile Include="IOr.cs" />
     <Compile Include="Loup.cs" />
     <Compile Include="Monster.cs" />
+    <Compile Include="Elfe.cs" />
     <Compile Include="Nain.cs" />
     <Compile Include="Orque.cs" />
     <Compile Include="Personnage.cs" />
